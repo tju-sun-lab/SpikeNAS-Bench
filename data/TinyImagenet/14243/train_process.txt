@@ -1,0 +1,7 @@
+architecture id: 14243
+model parameters: 75934056
+epoch, train_acc,train_top5, train_loss, val_acc, val_top5, val_loss
+99.000, 99.914, 100.000, 0.010, 52.610, 75.390, 2.574
+test top1: 52.610, test tpo5: 75.4
+firing rate of layers: 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000, 0.000
+Elapsed time: 10.0hour26.0minute40.3second
