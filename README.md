@@ -1,3 +1,5 @@
+Source code for the paper: [Gunchen Sun, et al., "SpikeNAS-Bench: Benchmarking NAS Algorithms for Spiking Neural Network Architecture", IEEE Transactions on Artificial Intelligence (2024).](https://ieeexplore.ieee.org/abstract/document/10855683)
+
 # User Guide of the SpikeNAS_Bench Demo
 
 SpikeNAS_Bench provides the training results of all neural networks within the search space. To demonstrate its effectiveness, a demo is provided here to show how to use the NAS algorithm to search for the optimal network architecture.
