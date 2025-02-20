@@ -35,7 +35,7 @@ SpikeNAS_Bench_Demo/
 
 ## data folder
 
-This folder contains training data for 15625 networks trained on different datasets. The data in the CIFAR10 folder is complete and serves as the data foundation for the NAS search below. Only a portion of the data is displayed in the CIFAR100 and Tiny Imagenet folders to reduce memory usage.
+This folder contains training data for 15625 networks trained on different datasets. The data in the CIFAR10 folder is complete and serves as the data foundation for the NAS search below.
 
 ## NAS folder
 
